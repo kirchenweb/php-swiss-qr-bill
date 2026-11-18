@@ -25,6 +25,7 @@
         "setasign/fpdi": "^2.3.5",
         "setasign/fpdf": "^1.8.2",
         "tecnickcom/tcpdf": "^6.3.2",
+        "phpoffice/phpword": "^1.0",
         "rector/rector": "^1.2",
         "nunomaduro/mock-final-classes": "^1.2"
     },
@@ -39,7 +40,8 @@
         "tecnickcom/tcpdf": "Needed to create pdfs with TcPdfOutput",
         "fpdf/fpdf": "Needed to create pdfs with FpdfOutput",
         "setasign/fpdi": "Needed to create pdfs with Fpdi",
-        "setasign/fpdf": "Needed to create pdfs with Fpdi"
+        "setasign/fpdf": "Needed to create pdfs with Fpdi",
+        "phpoffice/phpword": "Needed to create doc/docx with PhpWordOutput"
     },
     "autoload": {
         "psr-4": {

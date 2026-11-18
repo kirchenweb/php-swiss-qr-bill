@@ -9,3 +9,4 @@
 /.phpunit.result.cache
 /composer.lock
 .idea/
+/example/PhpWordOutput/phpword_example.docx
